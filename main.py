@@ -3,3 +3,6 @@ def fun1():
 
 def fun2():
     print(';hello2')
+
+def fun3():
+    pass
